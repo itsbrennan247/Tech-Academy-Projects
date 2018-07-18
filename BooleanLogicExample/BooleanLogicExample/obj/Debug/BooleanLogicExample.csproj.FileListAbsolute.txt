@@ -1,0 +1,7 @@
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\bin\Debug\BooleanLogicExample.exe.config
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\bin\Debug\BooleanLogicExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\bin\Debug\BooleanLogicExample.pdb
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\obj\Debug\BooleanLogicExample.csprojAssemblyReference.cache
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\obj\Debug\BooleanLogicExample.csproj.CoreCompileInputs.cache
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\obj\Debug\BooleanLogicExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\BooleanLogicExample\BooleanLogicExample\obj\Debug\BooleanLogicExample.pdb
