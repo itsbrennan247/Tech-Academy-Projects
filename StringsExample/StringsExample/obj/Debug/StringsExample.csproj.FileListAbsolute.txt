@@ -1,0 +1,6 @@
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\obj\Debug\StringsExample.csproj.CoreCompileInputs.cache
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\bin\Debug\StringsExample.exe.config
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\bin\Debug\StringsExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\bin\Debug\StringsExample.pdb
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\obj\Debug\StringsExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\StringsExample\StringsExample\obj\Debug\StringsExample.pdb
