@@ -1,0 +1,7 @@
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\bin\Debug\ArraysAndListsExample.exe.config
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\bin\Debug\ArraysAndListsExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\bin\Debug\ArraysAndListsExample.pdb
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\obj\Debug\ArraysAndListsExample.csprojAssemblyReference.cache
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\obj\Debug\ArraysAndListsExample.csproj.CoreCompileInputs.cache
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\obj\Debug\ArraysAndListsExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\ArraysAndListsExample\ArraysAndListsExample\obj\Debug\ArraysAndListsExample.pdb
