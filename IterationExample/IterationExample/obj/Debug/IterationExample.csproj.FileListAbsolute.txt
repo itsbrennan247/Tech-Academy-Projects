@@ -1,0 +1,7 @@
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\obj\Debug\IterationExample.csprojAssemblyReference.cache
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\obj\Debug\IterationExample.csproj.CoreCompileInputs.cache
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\bin\Debug\IterationExample.exe.config
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\bin\Debug\IterationExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\bin\Debug\IterationExample.pdb
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\obj\Debug\IterationExample.exe
+C:\Users\Brennan\Desktop\Projects\C#\IterationExample\IterationExample\obj\Debug\IterationExample.pdb
